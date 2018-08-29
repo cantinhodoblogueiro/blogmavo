@@ -126,5 +126,24 @@
 			"@type": "http://schema.org/BlogPosting",
 			"blogId": "4904827161252080"
 		}
-	]
+	],
+	"link-home": [
+		"#"
+	],
+	"home-link": [
+		"Home"
+	],
+	"link-about": [
+		"#"
+	],
+	"home-about": [
+		"About"
+	],
+	"link-contact": [
+		"#"
+	],
+	"home-contact": [
+		"Contact"
+	],
+	"header-center": "Parallax Templati"
 }
