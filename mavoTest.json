@@ -1,5 +1,9 @@
 {
-	"name": "Titulo#1",
+	"name": [
+		"Titulo#1",
+		"Teste",
+		"tulo#1"
+	],
 	"description": " aqui vai o texto completo  ",
 	"blogPost": [
 		{
@@ -15,98 +19,112 @@
 			"postId": "188294094594292658",
 			"url": "http://dotacomico.blogspot.com/2018/03/teste.html",
 			"datePublished": "21:56",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/atGahbtSaOo/hqdefault.jpg",
 			"postId": "6427208649244962960",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-cast-skynet-league-virtual.html",
 			"datePublished": "22:26",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/kz7snN7pLZY/hqdefault.jpg",
 			"postId": "4490463924783747668",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-gameplay-purge-plays-enigma.html",
 			"datePublished": "22:18",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/ZYOtj66Nq0M/hqdefault.jpg",
 			"postId": "8460845767338406813",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-rylai-crystal.html",
 			"datePublished": "22:17",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/abbOaYpkhb0/hqdefault.jpg",
 			"postId": "9128275787073629026",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-pudge-remastered.html",
 			"datePublished": "22:15",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/aSG25ExMvBM/hqdefault.jpg",
 			"postId": "2547115654456411044",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-razor-remastered.html",
 			"datePublished": "22:14",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/T13n0O9RffQ/hqdefault.jpg",
 			"postId": "3870397214185529482",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-gameplay-purge-plays-necrolyte.html",
 			"datePublished": "22:13",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/Eozbzk4P1u4/hqdefault.jpg",
 			"postId": "9160597965065973169",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-natures-prophet.html",
 			"datePublished": "22:12",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/sFfV60BCOBg/hqdefault.jpg",
 			"postId": "5052808996845350322",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-shadow-fiend.html",
 			"datePublished": "22:11",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/Lnk-SkHSB5M/hqdefault.jpg",
 			"postId": "2441270219226487419",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-windranger.html",
 			"datePublished": "22:10",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/RWWzbyW5sEE/hqdefault.jpg",
 			"postId": "1629950868110679308",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-cast-skynet-group-stages-panzer.html",
 			"datePublished": "22:09",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/_vWFaBLTals/hqdefault.jpg",
 			"postId": "7578252090080650436",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-hero-spotlight-gondar-bounty.html",
 			"datePublished": "22:08",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/hHVPnzZbC7w/hqdefault.jpg",
 			"postId": "1207408882664798571",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-cast-skynet-group-stages-masspro.html",
 			"datePublished": "22:07",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		},
 		{
 			"image_url": "https://i.ytimg.com/vi/aHW7tz6ByPM/hqdefault.jpg",
 			"postId": "5677328060195345814",
 			"url": "http://dotacomico.blogspot.com/2016/08/dota-2-gameplay-purge-plays-lion.html",
 			"datePublished": "22:07",
-			"@type": "http://schema.org/BlogPosting"
+			"@type": "http://schema.org/BlogPosting",
+			"blogId": "4904827161252080"
 		}
 	]
 }
