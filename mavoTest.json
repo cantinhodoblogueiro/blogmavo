@@ -128,22 +128,28 @@
 		}
 	],
 	"link-home": [
+		"#",
 		"#"
 	],
 	"home-link": [
+		"Home",
 		"Home"
 	],
 	"link-about": [
+		"#",
 		"#"
 	],
 	"home-about": [
+		"About",
 		"About"
 	],
 	"link-contact": [
+		"#",
 		"#"
 	],
 	"home-contact": [
+		"Contact",
 		"Contact"
 	],
-	"header-center": "Parallax Templati"
+	"header-center": "Parallax Template"
 }
