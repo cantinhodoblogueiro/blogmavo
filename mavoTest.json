@@ -1,6 +1,6 @@
 {
 	"name": [
-		"Titulo#1",
+		"Gramatery",
 		"Gramateria",
 		"tulo#1"
 	],
@@ -149,7 +149,11 @@
 	],
 	"home-contact": [
 		"Contact",
-		"Contact"
+		"Contact",
+		"Get Started"
 	],
-	"header-center": "Parallax Template"
+	"header-center": "Parallax Template",
+	"header-col-s12-light": "A modern responsive front-end framework based on Material Design\n\t\t",
+	"get-start-link": "#",
+	"image": "https://res.cloudinary.com/ronaldaug/image/upload/v1515419443/background_ckgyqe.jpg"
 }
